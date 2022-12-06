@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ClickMe_page566" />
+        <module name="ClickCounter_page578" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ClickCounter_page578" target="11" />
       <module name="ClickMe_page566" target="11" />
       <module name="ClickMeProgram" target="11" />
     </bytecodeTargetLevel>
