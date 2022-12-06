@@ -8,9 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ClickMe_page566" />
         <module name="ClickCounter_page578" />
+        <module name="AddSubtract2" />
+        <module name="AddSubtract1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="AddSubtract1" target="11" />
+      <module name="AddSubtract2" target="11" />
       <module name="ClickCounter_page578" target="11" />
       <module name="ClickMe_page566" target="11" />
       <module name="ClickMeProgram" target="11" />
