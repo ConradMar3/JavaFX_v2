@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Book06-Chapter02/AddSubtract1/AddSubtract1.iml" filepath="$PROJECT_DIR$/Book06-Chapter02/AddSubtract1/AddSubtract1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Book06-Chapter02/AddSubtract2/AddSubtract2.iml" filepath="$PROJECT_DIR$/Book06-Chapter02/AddSubtract2/AddSubtract2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Book06-Chapter01/ClickCounter/ClickCounter.iml" filepath="$PROJECT_DIR$/Book06-Chapter01/ClickCounter/ClickCounter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Book06-Chapter01/ClickMeCounter/ClickCounter_page578.iml" filepath="$PROJECT_DIR$/Book06-Chapter01/ClickMeCounter/ClickCounter_page578.iml" />
       <module fileurl="file://$PROJECT_DIR$/Book06-Chapter01/ClickMe_page566/ClickMe_page566.iml" filepath="$PROJECT_DIR$/Book06-Chapter01/ClickMe_page566/ClickMe_page566.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaFX_v2.iml" filepath="$PROJECT_DIR$/.idea/JavaFX_v2.iml" />
